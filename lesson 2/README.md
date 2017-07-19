@@ -35,5 +35,7 @@
    * Блок схема в вкладенову файлі.
    
 5. https://learn.javascript.ru/logical-ops
+6. https://learn.javascript.ru/while-for
+7. https://learn.javascript.ru/switch
 
 
