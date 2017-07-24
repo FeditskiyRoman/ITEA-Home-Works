@@ -94,3 +94,6 @@
    * Кількість вложених в нього елементів.
 
 
+5. https://learn.javascript.ru/document
+
+
