@@ -35,3 +35,5 @@
 
 5. Створити об'єкт ```calculator``` такий як в ```4``` завданні через конструктор.
 
+6. https://learn.javascript.ru/object
+
